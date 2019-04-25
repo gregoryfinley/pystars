@@ -1,6 +1,8 @@
 PyStars
 =======
 
+.. ::image image.PNG
+
 This is a private project for learning and exploring both Python and the Doryen library (libtcod).
 
 PyStars uses procedural generation to render an ASCII-style star map. It also computes the positions of the planets in our solar system and renders a view either from above or from the perspective of Earth using a simple equirectangular projection.
