@@ -1,7 +1,7 @@
 PyStars
 =======
 
-.. ::image image.PNG
+.. image:: image.PNG
 
 This is a private project for learning and exploring both Python and the Doryen library (libtcod).
 
